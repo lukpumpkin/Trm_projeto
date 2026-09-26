@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "nome": "Ouro Preto",
+    "estado": "Minas Gerais",
+    "categoria": "História",
+    "imagem": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzYyNzh8MHwxfHNlYXJjaHwxfHxPdXJvIFByZXRvfGVufDB8fHx8MTY2NjQyNjM2NQ&ixlib=rb-1.2.1&q=80&w=400",
+    "descricao": "Cidade histórica brasileira conhecida pela arquitetura colonial.",
+    "avaliacao": 4.8,
+    "latitude": -20.3855,
+    "longitude": -43.5035,
+    "historia": "Fundada no final do século XVII, Ouro Preto foi um dos principais centros da corrida do ouro no Brasil.",
+    "curiosidades": [
+      "Foi a primeira cidade brasileira a ser tombada pelo IPHAN.",
+      "Possui mais de 10 igrejas barrocas."
+    ],
+    "melhor_epoca": "Abril a Setembro",
+    "custo_estimado": "R$ 300-500 por dia",
+    "pontos_turisticos": [
+      "Igreja de São Francisco de Assis",
+      "Museu da Inconfidência",
+      "Passagem Subterrânea da Mina do Chico Rei"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Fernando de Noronha",
+    "estado": "Pernambuco",
+    "categoria": "Praias",
+    "imagem": "https://images.unsplash.com/photo-1582719478250-5d1c1224b24f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzYyNzh8MHwxfHNlYXJjaHwxfHxGZXJuYW5kbyBkZSBOb3JvbmhhfGVufDB8fHx8MTY2NjQyNjM5MA&ixlib=rb-1.2.1&q=80&w=400",
+    "descricao": "Arquipélago conhecido por suas praias paradisíacas e vida marinha rica.",
+    "avaliacao": 4.9,
+    "latitude": -3.8524,
+    "longitude": -32.4261,
+    "historia": "Descoberto em 1503 por uma expedição portuguesa liderada por Gonçalo Coelho.",
+    "curiosidades": [
+      "É um dos melhores locais do mundo para mergulho com tubarões.",
+      "Apenas 420 turistas são permitidos por dia para preservação ambiental."
+    ],
+    "melhor_epoca": "Setembro a Novembro",
+    "custo_estimado": "R$ 800-1200 por dia",
+    "pontos_turisticos": [
+      "Baía do Sancho",
+      "Praia do Leão",
+      "Projeto Tamar"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Chapada Diamantina",
+    "estado": "Bahia",
+    "categoria": "Natureza",
+    "imagem": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzYyNzh8MHwxfHNlYXJjaHwxfHxDaGFwYWRhIERpYW1hbnRpbmF8ZW58MHx8fHwxNjY2NDI2NDI0&ixlib=rb-1.2.1&q=80&w=400",
+    "descricao": "Parque Nacional com cachoeiras, grutas e paisagens de tirar o fôlego.",
+    "avaliacao": 4.7,
+    "latitude": -12.5233,
+    "longitude": -41.6538,
+    "historia": "Fundada no século XVIII durante o ciclo do diamante na região.",
+    "curiosidades": [
+      "Possui uma das maiores concentrações de quedas d'água do Brasil.",
+      "A Gruta da Larga Doce tem um lago subterrâneo de água cristalina."
+    ],
+    "melhor_epoca": "Maio a Setembro",
+    "custo_estimado": "R$ 200-400 por dia",
+    "pontos_turisticos": [
+      "Cachoeira da Fumaça",
+      "Gruta da Larga Doce",
+      "Morro do Pai Inácio"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Bonito",
+    "estado": "Mato Grosso do Sul",
+    "categoria": "Aventura",
+    "imagem": "https://images.unsplash.com/photo-1569054700313-6b0d2a8c1e6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzYyNzh8MHwxfHNlYXJjaHwxfHxCb25pdG98ZW58MHx8fHwxNjY2NDI2NDUw&ixlib=rb-1.2.1&q=80&w=400",
+    "descricao": "Destino famoso por seus rios de água cristalina e atividades de ecoturismo.",
+    "avaliacao": 4.6,
+    "latitude": -21.1289,
+    "longitude": -56.4873,
+    "historia": "Bonito se tornou um destino turístico na década de 1990 devido aos seus rios transparentes.",
+    "curiosidades": [
+      "O Rio da Prata é considerado um dos melhores pontos de flutuação do mundo.",
+      "A região possui mais de 70 cavidades catalogadas para visitação."
+    ],
+    "melhor_epoca": "Maio a Setembro",
+    "custo_estimado": "R$ 250-450 por dia",
+    "pontos_turisticos": [
+      "Gruta do Lago Azul",
+      "Rio da Prata",
+      "Balneário Municipal"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Curitiba",
+    "estado": "Paraná",
+    "categoria": "Gastronomia",
+    "imagem": "https://images.unsplash.com/photo-1552832230-c0197831b3a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzYyNzh8MHwxfHNlYXJjaHwxfHxDdXJpdGlicmF8ZW58MHx8fHwxNjY2NDI2NDc2&ixlib=rb-1.2.1&q=80&w=400",
+    "descricao": "Capital paranaense conhecida por sua urbanização e culinária diversificada.",
+    "avaliacao": 4.4,
+    "latitude": -25.4284,
+    "longitude": -49.2733,
+    "historia": "Fundada em 1693, Curitiba cresceu com a chegada de imigrantes europeus no século XIX.",
+    "curiosidades": [
+      "Foi a primeira cidade brasileira a ter um plano diretor.",
+      "Possui um dos melhores sistemas de transporte público coletivo do mundo."
+    ],
+    "melhor_epoca": "Março a Maio",
+    "custo_estimado": "R$ 150-300 por dia",
+    "pontos_turisticos": [
+      "Jardim Botânico",
+      "Ópera de Arame",
+      "Mercado Municipal"
+    ]
+  }
+]
